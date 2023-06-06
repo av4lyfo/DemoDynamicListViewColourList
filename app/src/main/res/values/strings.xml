@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DemoDynamicListViewColourList</string>
+    <string name="add_new_colour">ADD NEW COLOR</string>
+    <string name="enter_new_colour">Enter new color</string>
 </resources>
